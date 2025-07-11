@@ -1,0 +1,21 @@
+{
+  "name": "terminal-color-theme",
+  "displayName": "Terminal Color Theme",
+  "description": "A simple color theme designed around legibility combined with simple color pallete choices, primary text color is green and background is pure black.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Classic Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Classic Terminal-color-theme.json"
+      }
+    ]
+  }
+}
