@@ -1,8 +1,9 @@
 {
-  "name": "terminal-color-theme",
-  "displayName": "Terminal Color Theme",
-  "description": "A simple color theme designed around legibility combined with simple color pallete choices, primary text color is green and background is pure black.",
-  "version": "0.0.1",
+  "name": "classic-terminal-revisited",
+  "displayName": "Classic Terminal Revisited",
+  "description": "A classic green-on-black terminal-inspired theme with modern refinements.",
+  "version": "1.0.0",
+  "publisher": "VillageOfGamers",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -12,10 +13,36 @@
   "contributes": {
     "themes": [
       {
-        "label": "Classic Terminal",
+        "label": "Classic Terminal Revisited",
         "uiTheme": "vs-dark",
-        "path": "./themes/Classic Terminal-color-theme.json"
+        "path": "./themes/classic-terminal-revisited-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VillageOfGamers/classic-terminal-color-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VillageOfGamers/classic-terminal-color-theme/issues"
+  },
+  "homepage": "https://github.com/VillageOfGamers/classic-terminal-color-theme",
+  "keywords": [
+    "theme",
+    "color theme",
+    "terminal",
+    "retro",
+    "green on black",
+    "classic",
+    "vintage",
+    "vscode"
+  ],
+  "license": "GPL-3.0-or-later",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "scripts": {},
+  "devDependencies": {}
 }
