@@ -1,16 +1,5 @@
-# terminal-color-theme README
+# Classic Terminal Revisited
+This is my public repository for my VS Code color theme. It'll mostly remain as-is unless Microsoft adds new color keys or new VS Code releases require changes for some reason.
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Updates
+If something needs to be updated, please create an issue or a pull request! Feedback is always welcome!

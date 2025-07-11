@@ -38,11 +38,17 @@
     "vscode"
   ],
   "license": "GPL-3.0-or-later",
-  "icon": "images/icon.png",
+  "icon": "res/icon.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
   },
+  "screenshots": [
+    {
+      "path": "res/screenshot.png",
+      "caption": "Java code with various syntax types"
+    }
+  ],
   "scripts": {},
   "devDependencies": {}
 }
